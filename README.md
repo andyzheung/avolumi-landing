@@ -18,4 +18,4 @@ The workflow at `.github/workflows/deploy-landing-page.yml` packages the site ro
 
 After the workflow succeeds, GitHub will show the published URL in the workflow summary. This repository's expected project-site URL is `https://andyzheung.github.io/avolumi-landing/`.
 
-The page intentionally uses a TestFlight mail link rather than an App Store URL. Replace those links only after the final App Store product-page URL is available.
+The page links to the live App Store listing at `https://apps.apple.com/app/id6807916555`.
