@@ -1,6 +1,13 @@
 # Avolumi 初芽记 Landing Page
 
-This public repository contains only the dependency-free marketing site for Avolumi 初芽记. It includes the landing page, support page, and privacy-policy URL used by App Store Connect; it contains no iOS application source code.
+This public repository contains only the dependency-free marketing site for Avolumi 初芽记. It includes Chinese and English landing, support, and privacy-policy pages used by App Store Connect; it contains no iOS application source code.
+
+## Languages
+
+- Simplified Chinese: `https://andyzheung.github.io/avolumi-landing/`
+- English: `https://andyzheung.github.io/avolumi-landing/en/`
+
+Both versions use the same release-approved product screenshots and link to the live App Store listing.
 
 ## Local preview
 
